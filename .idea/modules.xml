@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Jvm001/Jvm001.iml" filepath="$PROJECT_DIR$/Jvm001/Jvm001.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThreadDemo01/ThreadDemo01.iml" filepath="$PROJECT_DIR$/ThreadDemo01/ThreadDemo01.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThreadDemo02/ThreadDemo02.iml" filepath="$PROJECT_DIR$/ThreadDemo02/ThreadDemo02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadDemo03/ThreadDemo03.iml" filepath="$PROJECT_DIR$/ThreadDemo03/ThreadDemo03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadDemo04/ThreadDemo04.iml" filepath="$PROJECT_DIR$/ThreadDemo04/ThreadDemo04.iml" />
     </modules>
   </component>
 </project>
